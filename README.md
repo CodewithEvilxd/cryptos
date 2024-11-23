@@ -23,7 +23,7 @@ Follow these steps to set up and run the Cryptos App on your local machine.
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/Kiran1689/cryptos.git`
+1. Clone the repository: `git clone https://github.com/CodewithEvilxd/cryptos.git`
 2. Navigate to the project folder: `cd cryptos`
 3. Install dependencies: `npm install`
 
@@ -53,4 +53,4 @@ If you encounter any issues, have suggestions, or want to provide feedback, plea
 
 Happy cryptocurrency tracking with Cryptos App!
 
-Developed by Kiran (https://github.com/Kiran1689)
+Developed by Kiran (https://github.com/CodewitheEvilxd)
